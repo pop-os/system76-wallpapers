@@ -1,0 +1,3 @@
+backgrounds/ usr/share/
+system76-wallpapers.xml usr/share/gnome-background-properties/
+debian/source_system76-wallpapers.py usr/share/apport/package-hooks/
