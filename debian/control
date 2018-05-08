@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: System76, Inc. <dev@system76.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.7
-Homepage: https://launchpad.net/system76-wallpapers
+Homepage: https://github.com/pop-os/system76-wallpapers
 
 Package: system76-wallpapers
 Architecture: all

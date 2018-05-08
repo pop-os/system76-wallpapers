@@ -1,3 +1,9 @@
+system76-wallpapers (18.04.2) bionic; urgency=medium
+
+  * 18.04.2 release
+
+ -- Jeremy Soller <jeremy@system76.com>  Tue, 08 May 2018 16:24:00 -0600
+
 system76-wallpapers (18.04.1) bionic; urgency=medium
 
   * Add debian source/format
