@@ -2,7 +2,8 @@ Source: system76-wallpapers
 Section: x11
 Priority: optional
 Maintainer: System76, Inc. <dev@system76.com>
-Build-Depends: debhelper (>= 9)
+# potrace can be removed when imagemagick>=7
+Build-Depends: debhelper (>= 9), imagemagick, potrace
 Standards-Version: 3.9.7
 Homepage: https://github.com/pop-os/system76-wallpapers
 
